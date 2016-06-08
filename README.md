@@ -5,6 +5,7 @@ Colorful progress bar with round corner on progress which you can customized a c
 
 Preview
 ===========================
+![Icon Round Corner Progress Bar Usage](https://github.com/TheMelody/RoundCornerProgressBar/blob/master/Screenshot_20160608-151207.png)
 ![Icon Round Corner Progress Bar Usage](https://github.com/TheMelody/RoundCornerProgressBar/blob/master/Screenshot_20160608-151511.png)
 ![Icon Round Corner Progress Bar Usage](https://github.com/TheMelody/RoundCornerProgressBar/blob/master/Screenshot_20160608-151649.png)
 ![Icon Round Corner Progress Bar Usage](https://github.com/TheMelody/RoundCornerProgressBar/blob/master/Screenshot_20160608-151908.png)
